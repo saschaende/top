@@ -2,6 +2,8 @@
 
 A floating arrow, that displays on scroll down, click the arrow to scroll to top
 
+![Beispiel](https://github.com/saschaende/top/raw/master/Documentation/top.jpg)
+
 ## Dependencies
 
 * This extension requires JQUERY
